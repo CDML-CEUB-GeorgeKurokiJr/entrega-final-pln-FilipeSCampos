@@ -120,7 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+
 .venv
 env/
 venv/
@@ -177,7 +177,7 @@ Thumbs.db
 *~
 
 # Project specific
-volumes/
+
 uploads/
 data/
 logs/
