@@ -4,7 +4,7 @@
 
 ```bash
 git clone 
-cd projeto_pln/Trabalho_final_pln/trabalho_final/pln
+cd trabalho_final/pln
 ```
 ### 2. Configurar Variáveis de Ambiente
 
