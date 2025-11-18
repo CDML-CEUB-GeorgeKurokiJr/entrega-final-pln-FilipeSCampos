@@ -1,1 +1,0 @@
-# RAG-Demo - Aplicação Educacional de RAG 
